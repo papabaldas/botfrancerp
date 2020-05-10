@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no specified\" && exit 1"
-		),
+	},
 	"author": "Papabaldas",
 	"license": "ISC",
 	"dependencies": {
