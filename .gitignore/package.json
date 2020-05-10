@@ -1,0 +1,14 @@
+{
+ "name": "botfrancerp",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+   "test", "echo \"Error: no test specified\" && exite 1"
+   },
+   "author": "papabaldas",
+   "license": "ISC",
+   "dependencies": {
+     "discord.js": "^11.2.1"
+     }
+     }
