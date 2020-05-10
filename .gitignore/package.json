@@ -1,14 +1,16 @@
 {
- "name": "botfrancerp",
- "version": "1.0.0",
- "description": "",
- "main": "index.js",
- "scripts": {
-   "test", "echo \"Error: no test specified\" && exite 1"
-   },
-   "author": "papabaldas",
-   "license": "ISC",
-   "dependencies": {
-     "discord.js": "^11.2.1"
-     }
-     }
+    "name": "DBM",
+    "main": "index.html",
+    "author": "Robert Borghese",
+    "version": "1.2.10",
+    "window": {
+        "title": "Discord Bot Maker",
+	"show": false,
+        "toolbar": false,
+        "width": 920,
+        "height": 632,
+	"min_width": 920,
+	"min_height": 632,
+        "icon": "icon.png"
+    }
+}
